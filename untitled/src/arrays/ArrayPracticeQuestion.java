@@ -16,6 +16,6 @@ public class ArrayPracticeQuestion {
             arr[i] = sc.nextInt();
         }
 
-        System.out.println(Arrays.toString(arr));
+        System.out.println(arr);
     }
 }
